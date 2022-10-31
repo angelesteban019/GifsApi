@@ -1,0 +1,68 @@
+
+body{
+    background-image: url("/Buscador/img/fondo.png");
+}
+.text{
+    background-color: rgba(240, 248, 238, 0.481);
+    border-radius: 20px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    border-color: rgba(240, 248, 255, 0);
+}
+.flex{
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.wraper{
+    display: inline-block;
+    align-items: center;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(240, 248, 238, 0.481);
+    border-color: rgba(240, 248, 255, 0);
+}
+img{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: 4px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    color: rgb(198, 78, 78);
+    font-size: 50px;
+    font-family:cursive;
+}
+.trending{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(196, 194, 194, 0.518);
+    border-radius: 20px;
+}
+.search_cont{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(198, 78, 78, 0.616);
+}
+
+
+.logo{
+    height: 200px;
+    width: 200px;
+    display: center;
+
+}
